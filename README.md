@@ -18,7 +18,7 @@
 ## 📸 效果展示 (Before & After)
 
 ### 1. 动漫描线与插画风格
-精准提取人物与场景轮廓，线条流畅自然，是二次元上色的完美底稿。
+精准提取人物与场景轮廓，线条流畅自然，是二次元上色的完美底稿
 | 原始照片 | AI 提取线稿 |
 | :--- | :--- |
 | ![动漫线稿原图](https://img.sipingseo.com/file/ai-line-art/FTYDi6xv.webp) | ![动漫线稿结果](https://img.sipingseo.com/file/ai-line-art/0oeZPZLf.webp) |
