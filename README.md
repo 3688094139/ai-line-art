@@ -5,7 +5,7 @@
 [![Tool-Type](https://img.shields.io/badge/Type-AI%20Image%20Editor-blue)](#)
 [![License](https://img.shields.io/badge/License-Free-green)](#)
 
-[SPAI 线稿助理](https://www.sipingseo.com/zh/line-art-edit/ai-line-art) 是一款基于深度学习技术的免费在线 AI 照片转线稿工具。它能够智能提取图片中物体的边缘线条，将其转换为黑白线稿、素描轮廓或手绘线描。生成的线稿图具有极高的清晰度，可直接用于临摹、数字上色、矢量化设计或工业制图参考。
+[SPAI 线稿助理](https://www.sipingseo.com/zh/line-art-edit/ai-line-art) 是一款基于深度学习技术的免费在线 AI 照片转线稿工具。它能够智能提取图片中物体的边缘线条，将其转换为黑白线稿、素描轮廓或手绘线描。生成的线稿图具有极高的清晰度，可直接用于临摹、数字上色、矢量化设计或工业制图参考
 
 ## ✨ 核心优势
 
