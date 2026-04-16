@@ -24,7 +24,7 @@
 | ![动漫线稿原图](https://img.sipingseo.com/file/ai-line-art/FTYDi6xv.webp) | ![动漫线稿结果](https://img.sipingseo.com/file/ai-line-art/0oeZPZLf.webp) |
 
 ### 2. 建筑结构与工程风格
-强化透视线条，滤除光影干扰，重现清晰的建筑骨架与工程设计美感。
+强化透视线条，滤除光影干扰，重现清晰的建筑骨架与工程设计美感
 | 原始照片 | AI 建筑线稿 |
 | :--- | :--- |
 | ![建筑原图](https://img.sipingseo.com/file/ai-line-art/FWUr5piH.webp) | ![建筑结果](https://img.sipingseo.com/file/ai-line-art/wPyWsFRZ.webp) |
