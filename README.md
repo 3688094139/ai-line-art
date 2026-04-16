@@ -30,7 +30,7 @@
 | ![建筑原图](https://img.sipingseo.com/file/ai-line-art/FWUr5piH.webp) | ![建筑结果](https://img.sipingseo.com/file/ai-line-art/wPyWsFRZ.webp) |
 
 ### 3. 艺术素描与简笔画
-模拟铅笔素描的质感或简化为童趣盎然的线条，满足多元审美需求。
+模拟铅笔素描的质感或简化为童趣盎然的线条，满足多元审美需求
 | 类型 | 原始照片 | AI 转换结果 |
 | :--- | :--- | :--- |
 | **素描风格** | ![素描原图](https://img.sipingseo.com/file/ai-line-art/oQrCogdy.webp) | ![素描线稿](https://img.sipingseo.com/file/ai-line-art/AImtnVdS.webp) |
